@@ -8,4 +8,4 @@ Until today I read about some modelling tools and came across [OpenSCAD](https:/
 ```
 cube([10,20,30]);
 ```
-You can see a simple example (and later maybe even more) of an "Iglu" (igloo) at https://github.com/jpstrube/3d-printing-examples.
+You can see a simple example (and later maybe even more) of an "Iglu" (igloo) [here](https://github.com/jpstrube/3d-printing-examples).
